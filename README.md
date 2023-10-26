@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Soofiya Binth Shajahan B</h1>
 <h3 align="center">Entrepreneur, Full Stack Developer, Lecturer, Full Stack Trainer</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=soofiyabinthshajahan&label=Profile%20views&color=0e75b6&style=flat](https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif)" alt="soofiyabinthshajahan" /> </p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/D5603AQFiM-rMCxkxLA/profile-displayphoto-shrink_800_800/0/1696055679020?e=1703721600&v=beta&t=Mi1uIKwvQ8u309xz8SJWKBfWuX1lGzQwSz14IQW2N8s" alt="soofiyabinthshajahan" /> </p>
 
 - 🔭 I’m currently working at **Wadi Twaiba Residential College & some freelance Projects, Eranakulam**
 
