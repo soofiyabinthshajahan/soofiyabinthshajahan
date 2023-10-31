@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Soofiya Binth Shajahan B</h1>
 <h3 align="center">Entrepreneur, Full Stack Developer, Lecturer, Full Stack Trainer</h3>
 
-<p align="left"> <img src="https://media.licdn.com/dms/image/D5603AQFiM-rMCxkxLA/profile-displayphoto-shrink_800_800/0/1696055679020?e=1703721600&v=beta&t=Mi1uIKwvQ8u309xz8SJWKBfWuX1lGzQwSz14IQW2N8s" alt="soofiyabinthshajahan" /> </p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/D5616AQF7g4IlCgE0XA/profile-displaybackgroundimage-shrink_350_1400/0/1698747878141?e=1704326400&v=beta&t=i8Bcn32V3ktMaK6Ib9G8_FHA8ebPi8qHxbh9lu-r3bk" alt="soofiyabinthshajahan" /> </p>
 
 - 🔭 I’m currently working at **Wadi Twaiba Residential College & some freelance Projects, Eranakulam**
 
